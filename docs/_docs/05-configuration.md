@@ -306,7 +306,7 @@ defaults:
       path: ""
       type: posts
     values:
-      read_time: true
+      #read_time: true
 ```
 
 To disable reading time for a post, add `read_time: false` to its YAML Front Matter to override what was set in `_config.yml`.
