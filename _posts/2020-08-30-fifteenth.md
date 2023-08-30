@@ -29,6 +29,6 @@ sidebar:
 
 # 덱(Deque)란?  
 - 덱(Deque)는 양 끝에서만 자료를 넣고 양 끝에서 뺄 수 있는 자료구조이다.
-- 스택(Stack)과 큐(Queue)의 연산을 모두 지원한다.  
+- 스택(Stack)과 큐(Queue)의 연산을 모두 지원한다.
 
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/92205960/264383479-25225b78-c233-4e83-9ddc-3ce7a212cd3f.png)
