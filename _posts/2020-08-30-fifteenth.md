@@ -1,8 +1,8 @@
 ---
 layout: single
 title:  "[Algorithm] 스택(Stack) ,큐(Queue), 덱(Deque)"
-categories: Algorithm
-tag: [Concept]
+categories: Concept
+tag: [Algorithm]
 toc: true
 author_profile: false
 sidebar:
