@@ -44,7 +44,10 @@ i에게 가능한 경우를 생각해보면
 -> D[i-1]+1  
 세개의 값 중 최소값이 들어가게 된다!!
 # 정답 코드
-<script src="https://gist.github.com/kghees/696d91556ee1a9eafb2e96472f138df1.js"></script>
+<script src="https://gist.github.com/kghees/696d91556ee1a9eafb2e96472f138df1.js"></script>  
+  
+      
+<script src="https://gist.github.com/kghees/5a444a26b7eef9138f6ad72734df47c9.js"></script>
 
 # 시행 착오
 먼저 3으로 나누는 것, 2로 나누는 것, 1을 빼는 것을 우선 순위로 생각해서  
