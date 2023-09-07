@@ -36,8 +36,10 @@ D[i] = A[1]...A[i]까지 수열 중, A[i]를 마지막으로 하는 가장 긴 �
 A[j]라고 두고 A[i]전까지의 증가하는 수열의 수 중 마지막 수 라고 두자 A[j] < A[i]  
 예를 들어 A = [10,20,10,30,20] 이라고 하자!  
 
-![image](https://github-production-user-asset-6210df.s3.amazonaws.com/92205960/266356485-4c746330-c9bd-4223-b74f-5b0ca912ac7f.png)
-이것을 표를 구성해서 그림으로 풀어지는 순서를 보여보겠습니다.
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/92205960/266356485-4c746330-c9bd-4223-b74f-5b0ca912ac7f.png)  
+
+이것을 표를 구성해서 그림으로 풀어지는 순서를 보여보겠습니다.  
+
 1. ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/92205960/266358614-5f6c27dd-4895-4101-9abe-541c4b4a2c01.png)  
 2. ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/92205960/266359424-472d93d0-9888-4b94-93ec-43797154254c.png)  
 3. ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/92205960/266359701-94d06596-135e-4995-8144-7e242c6e5c6d.png)  
