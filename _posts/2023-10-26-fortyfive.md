@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "1234. [S/W 문제해결 기본] 10일차 - 비밀번호"
+title:  "[SWEA] 1234. [S/W 문제해결 기본] 10일차 - 비밀번호"
 categories: SWEA
 tag: [python, D3]
 toc: true
