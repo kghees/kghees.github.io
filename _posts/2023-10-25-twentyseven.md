@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[SWEA] " 12368. 24시간
+title:  "[SWEA]  12368. 24시간"
 categories: SWEA
 tag: [python, D3]
 toc: true
