@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[SWEA] " 3431. 준환이의 운동관리
+title:  "[SWEA]  3431. 준환이의 운동관리"
 categories: SWEA
 tag: [python, D3]
 toc: true

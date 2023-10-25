@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[SWEA] " 4406. 모음이 보이지 않는 사람
+title:  "[SWEA]  4406. 모음이 보이지 않는 사람"
 categories: SWEA
 tag: [python, D3]
 toc: true

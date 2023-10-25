@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[SWEA] " 10505. 소득 불균형
+title:  "[SWEA]  10505. 소득 불균형"
 categories: SWEA
 tag: [python, D3]
 toc: true

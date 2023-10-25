@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[SWEA] " 13218. 조별과제 
+title:  "[SWEA]  13218. 조별과제" 
 categories: SWEA
 tag: [python, D3]
 toc: true
