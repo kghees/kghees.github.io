@@ -2,7 +2,7 @@
 layout: single
 title:  "[BOJ/백준] 2667. 단지번호붙이기"
 categories: CodingTest
-tag: [bfs, python]
+tag: [dfs, bfs, python]
 toc: true
 author_profile: false
 sidebar:
