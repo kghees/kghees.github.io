@@ -2,7 +2,7 @@
 layout: single
 title:  "[BOJ/백준] 1697. 숨바꼭질"
 categories: CodingTest
-tag: [dfs, bfs, python]
+tag: [bfs, python]
 toc: true
 author_profile: false
 sidebar:
