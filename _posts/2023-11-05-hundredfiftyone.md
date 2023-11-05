@@ -2,7 +2,7 @@
 layout: single
 title:  "[BOJ/백준] 14503. 로봇 청소기"
 categories: CodingTest
-tag: [bfs, python]
+tag: [구현, python]
 toc: true
 author_profile: false
 sidebar:
