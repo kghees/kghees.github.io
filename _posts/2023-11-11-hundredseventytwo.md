@@ -2,7 +2,7 @@
 layout: single
 title:  "[BOJ/백준] 24445. 알고리즘 수업 - 너비 우선 탐색2"
 categories: CodingTest
-tag: [dfs, python]
+tag: [bfs, python]
 toc: true
 author_profile: false
 sidebar:
