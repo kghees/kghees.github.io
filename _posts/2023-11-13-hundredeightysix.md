@@ -19,8 +19,10 @@ sidebar:
 # 과정
 
 1. 괄호를 넣고 비교할 stack 리스트를 만들어준다.
-2. 결과 값을 저장할 res를 0으로 정의하고 괄호의 값들을 곱하고 res에 더해줄 x를 1로 정의해준다.
-![image](https://github-production-user-asset-6210df.s3.amazonaws.com/92205960/282460032-96d69528-2717-4268-866b-0ed913d5b6c5.png)
+2. 결과 값을 저장할 res를 0으로 정의하고 괄호의 값들을 곱하고 res에 더해줄 x를 1로 정의해준다.  
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/92205960/282460032-96d69528-2717-4268-866b-0ed913d5b6c5.png)  
+
 원래는 2(2+3*3) + 3*2 이지만  
 그림처럼 바꾸어주면 4+18+6으로 바꾸어서 풀어주는게 핵심이다!!
 3. s[i]가 '('이라면 x에 2를 곱해주고 '['이라면 x에 3을 곱해주고 stack에 s[i]를 추가해준다.
