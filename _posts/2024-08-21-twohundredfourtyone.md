@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[C#]"
+title:  "C#에 대해서"
 categories: Concept
 tag: [C#]
 toc: true
